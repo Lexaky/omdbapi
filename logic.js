@@ -1,4 +1,4 @@
-const apiKey = "4236bf3a";
+const apiKey = "";
 const apiUrl = "https://www.omdbapi.com/";
 
 // Обработчик события по загрузке страницы
